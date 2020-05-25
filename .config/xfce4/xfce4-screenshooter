@@ -1,0 +1,10 @@
+delay=1
+region=3
+action=8
+show_mouse=0
+title=ArcoLinux
+timestamp=TRUE
+app=nomacs
+last_user=
+screenshot_dir=file:/home/jsalk/Pictures
+
