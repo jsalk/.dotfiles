@@ -1,0 +1,4 @@
+conky -c /home/jsalk/.config/conky/Arco-Top.conkyrc & sleep 1s
+conky -c /home/jsalk/.config/conky/AUR-Misty-LUA.conkyrc & sleep 1s
+conky -c /home/jsalk/.config/conky/Arco-Eleganto-8core.conkyrc & sleep 1s
+conky -c /home/jsalk/.config/conky/TP-Troll-Cpu.conkyrc & sleep 1s
