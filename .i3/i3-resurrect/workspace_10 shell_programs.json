@@ -1,0 +1,29 @@
+[
+  {
+    "command": [
+      "/usr/local/bin/st"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/lib/electron4/electron",
+      "--executed-from=/home/jsalk",
+      "--pid=1686949",
+      "/usr/lib/atom/atom"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/local/bin/st"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/local/bin/st"
+    ],
+    "working_directory": "/home/jsalk"
+  }
+]

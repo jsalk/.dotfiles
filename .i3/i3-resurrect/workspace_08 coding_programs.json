@@ -1,0 +1,22 @@
+[
+  {
+    "command": [
+      "/usr/lib/notepadqq/notepadqq-bin"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/bin/xfce4-terminal"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/opt/visual-studio-code/code",
+      "--no-sandbox",
+      "--unity-launch"
+    ],
+    "working_directory": "/home/jsalk"
+  }
+]

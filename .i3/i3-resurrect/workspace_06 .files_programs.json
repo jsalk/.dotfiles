@@ -1,0 +1,17 @@
+[
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "/home/jsalk/bin/i3c.sh"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/lib/notepadqq/notepadqq-bin",
+      "/home/jsalk/.config/i3/config"
+    ],
+    "working_directory": "/home/jsalk"
+  }
+]

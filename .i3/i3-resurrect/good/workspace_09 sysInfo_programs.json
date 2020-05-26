@@ -1,0 +1,26 @@
+[
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "gotop"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "bashtop"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "bmon"
+    ],
+    "working_directory": "/home/jsalk"
+  }
+]

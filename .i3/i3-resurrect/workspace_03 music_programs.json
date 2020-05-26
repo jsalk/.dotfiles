@@ -1,0 +1,26 @@
+[
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "vis"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "/home/jsalk/bin/spd.sh"
+    ],
+    "working_directory": "/home/jsalk"
+  },
+  {
+    "command": [
+      "/usr/local/bin/st",
+      "-e",
+      "cava"
+    ],
+    "working_directory": "/home/jsalk"
+  }
+]

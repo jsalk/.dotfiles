@@ -1,0 +1,74 @@
+{
+  "border": "normal",
+  "current_border_width": -1,
+  "floating": "auto_off",
+  "fullscreen_mode": 0,
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "layout": "splith",
+  "name": "06: .files",
+  "orientation": "horizontal",
+  "percent": 0.1588063714604665,
+  "scratchpad_state": "none",
+  "sticky": false,
+  "type": "workspace",
+  "workspace_layout": "default",
+  "nodes": [
+    {
+      "border": "pixel",
+      "current_border_width": 2,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 640,
+        "height": 408
+      },
+      "layout": "splith",
+      "name": "/home/jsalk/bin/i3c.sh",
+      "orientation": "none",
+      "percent": 0.5,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "swallows": [
+        {
+          "class": "^St$",
+          "instance": "^st$"
+        }
+      ]
+    },
+    {
+      "border": "pixel",
+      "current_border_width": 2,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 16,
+        "y": 46,
+        "width": 937,
+        "height": 1018
+      },
+      "layout": "splith",
+      "name": "config - Notepadqq",
+      "orientation": "none",
+      "percent": 0.5,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "swallows": [
+        {
+          "class": "^Notepadqq$",
+          "instance": "^notepadqq\\-bin$"
+        }
+      ]
+    }
+  ]
+}
