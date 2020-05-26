@@ -16,5 +16,5 @@ antigen theme frisk
 PATH=$PATH:~/bin:~/.local/bin
 source ~/.alias.inc
 
-clear;figlet "veritasSanguis";neofetch
+clear;figlet "veritasEtSanguis";neofetch
 antigen apply
