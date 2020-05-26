@@ -1,0 +1,59 @@
+
+/home/jsalk [jsalk@nemesis] [2:46]
+> ps -ef | grep spot   
+jsalk     460771       1  0 01:18 ?        00:00:05 spotifyd -u laelcarroll@gmail.com -p Hacker99
+jsalk     491219  491185  0 02:47 pts/12   00:00:00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox spot
+
+/home/jsalk [jsalk@nemesis] [2:47]
+> spt    
+
+/home/jsalk [jsalk@nemesis] [3:37]
+> ps -ef | grep spot
+jsalk     460771       1  0 01:18 ?        00:00:05 spotifyd -u laelcarroll@gmail.com -p Hacker99
+jsalk     688977  491185  0 03:37 pts/12   00:00:00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox spot
+
+/home/jsalk [jsalk@nemesis] [3:37]
+> cd bin              
+
+/home/jsalk/bin [jsalk@nemesis] [3:44]
+> l
+total 64K
+drwxr-xr-x  2 jsalk jsalk 4.0K May  7 03:43 .
+drwx------ 45 jsalk jsalk 4.0K May  7 03:44 ..
+-rw-r--r--  1 jsalk jsalk   45 May  7 03:43 1
+-rwxr-xr-x  1 jsalk jsalk 1.5K May  5 21:00 getCrit.sh
+-rwxr-xr-x  1 jsalk jsalk   39 May  7 02:23 loadws2.sh
+-rwxr-xr-x  1 jsalk jsalk   38 May  7 02:00 loadws6.sh
+-rwxr-xr-x  1 jsalk jsalk   38 May  7 02:02 loadws8.sh
+-rwxr-xr-x  1 jsalk jsalk   39 May  5 21:02 loadws9.sh
+-rwxr-xr-x  1 jsalk jsalk   36 May  7 02:23 savews2.sh
+-rwxr-xr-x  1 jsalk jsalk   35 May  7 01:59 savews6.sh
+-rwxr-xr-x  1 jsalk jsalk   33 May  7 02:03 savews8.sh
+-rwxr-xr-x  1 jsalk jsalk   36 May  5 21:02 savews9.sh
+-rwxr-xr-x  1 jsalk jsalk   41 May  7 02:10 spad.sh
+-rwxr-xr-x  1 jsalk jsalk   45 May  7 01:18 spd.sh
+-rwxr-xr-x  1 jsalk jsalk   32 May  5 02:22 thtop
+-rwxr-xr-x  1 jsalk jsalk   94 May  6 15:25 weather.sh
+
+/home/jsalk/bin [jsalk@nemesis] [3:44]
+> spt                                                      
+
+/home/jsalk/bin [jsalk@nemesis] [3:54]
+> spt
+
+/home/jsalk/bin [jsalk@nemesis] [4:13]
+> qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+
+
+
+
+
+
+
+
+
+
+
+
+
+

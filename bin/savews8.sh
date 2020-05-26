@@ -1,0 +1,1 @@
+i3-resurrect save -w "08: coding"
